@@ -5,6 +5,15 @@ The objective of this project is to build an automated, end-to-end ETL pipeline 
 
 ---
 
+## 💾 Data Source
+The dataset used in this project originates from the open-source **TLC Trip Record Data** provided by the **New York City Taxi and Limousine Commission (TLC)**. 
+
+* **Dataset Details:** It includes fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+* **Access:** The public data can be found and downloaded via the [NYC Open Data Portal](https://opendata.cityofnewyork.us/) or the official [NYC TLC Trip Record Data Page](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+
+
+---
+
 ## 🛠️ Tech Stack & Tools
 * **Orchestration:** Mage AI
 * **Compute:** Google Cloud Compute Engine (Virtual Machine)
